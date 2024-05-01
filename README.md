@@ -32,9 +32,6 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## CODE:
-
-
 ## OUTPUT:
 ![image](https://github.com/SusithraB/Figma/assets/146347839/5398fbf9-4d59-440c-8c05-0fefce6a3f78)
 ![image](https://github.com/SusithraB/Figma/assets/146347839/5d056b00-e120-460c-8da3-a3a4aa28f237)
